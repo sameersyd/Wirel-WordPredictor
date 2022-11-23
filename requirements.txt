@@ -1,5 +1,5 @@
 # absl-py @ file:///opt/concourse/worker/volumes/live/038c7640-529d-45f3-464f-ee37f5e0f4eb/volume/absl-py_1623867246969/work
-alabaster==0.7.12
+# alabaster==0.7.12
 # anaconda-client==1.7.2
 anaconda-navigator==1.9.7
 anaconda-project==0.8.3
